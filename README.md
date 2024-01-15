@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heincrous
+# 👋 Hi, I’m @heincrous
 - 👀 I’m interested in environmental and social causes, electrical and energy innovations, and artificial intelligence.
 - 🌱 I’m currently studying Mechatronic Engineering at the University of Cape Town and learning how to program in Python, Java and C.
 - 💞️ I’m looking to collaborate on projects focused on sustainable and equitable solutions for South African issues.
